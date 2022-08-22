@@ -1,0 +1,4 @@
+Pada semester 5 ini saya akan mempelajari bahasa pemrograman:
+  - HTML
+  - CSS
+  - Javascript
